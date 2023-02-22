@@ -12,7 +12,13 @@
 ## :camera: Screenshots
 
 ![](/preview/ss1.jpg)
+
+***
+
 ![](/preview/ss2.jpg)
+
+***
+
 ![](/preview/ss3.jpg)
 
 ## :rocket: Project Setup Locally
