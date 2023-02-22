@@ -11,21 +11,9 @@
 * Node.js
 * Express
 
-## :video_camera: Video
+## :video_camera: Project Video
 
 https://user-images.githubusercontent.com/73464481/220662252-88afeda7-3ee5-42d2-8c2a-f49ef4c2b450.mp4
-
-## :camera: Screenshots
-
-![](/preview/ss1.jpg)
-
-***
-
-![](/preview/ss2.jpg)
-
-***
-
-![](/preview/ss3.jpg)
 
 ## :rocket: Project Setup Locally
 
